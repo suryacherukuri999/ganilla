@@ -6,6 +6,7 @@ GANILLA: Generative Adversarial Networks for Image to Illustration Translation.
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S0262885620300184)
 [Arxiv](https://arxiv.org/abs/2002.05638)
+[HF-Models](https://huggingface.co/samethi/ganilla)
 
 ## Updates
 
@@ -86,7 +87,7 @@ The test results will be saved to a html file here: `./results/maps_cyclegan/lat
 You can find more scripts at `scripts` directory.
 
 ### Apply a pre-trained model (GANILLA)
-- You can download pretrained models using following [link](https://drive.google.com/drive/folders/1HT9JxGMk7L94OmIeV5fqrPBy-bVn1u9L?usp=sharing)
+- You can download pretrained models using following [link](https://huggingface.co/samethi/ganilla).
 
 Put a pretrained model under `./checkpoints/{name}_pretrained/100_net_G.pth`.
 
