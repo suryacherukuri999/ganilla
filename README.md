@@ -4,9 +4,9 @@ We provide PyTorch implementation for:
 
 GANILLA: Generative Adversarial Networks for Image to Illustration Translation.
 
-[Paper](https://www.sciencedirect.com/science/article/pii/S0262885620300184)
-[Arxiv](https://arxiv.org/abs/2002.05638)
-[HF-Models](https://huggingface.co/samethi/ganilla)
+[![Paper](https://img.shields.io/badge/Elsevier-FF6C00?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.sciencedirect.com/science/article/pii/S0262885620300184)
+[![arXiv](https://img.shields.io/badge/arXiv-2002.05638-b31b1b.svg)](https://arxiv.org/abs/2002.05638)
+[![Model](https://img.shields.io/badge/Hugging%20Face-Model-yellow?logo=huggingface)](https://huggingface.co/samethi/ganilla)
 
 ## Updates
 
